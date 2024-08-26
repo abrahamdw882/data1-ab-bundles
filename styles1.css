@@ -3,7 +3,8 @@ body {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    background-color: #f4f4f4;
+    background: linear-gradient(90deg, #004e92, #a1c4fd, #ff5f6d);
+
 }
 
 header {
