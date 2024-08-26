@@ -29,7 +29,7 @@ function showDetails(productName) {
             <p>You become a boss of telecel data usage on Telecel platform for secure and efficient business communication. Connect with family and friends and businesses and partners.</p>
             <button onclick="openIframe('https://evnetwork.shop/voda-gh/')">Get started</button>
         `;
-    } else if (productName === 'evMoneyTransfer') {
+    } else if (productName === 'abMoneyTransfer') {
         content = `
             <h2>AB Money Transfer</h2>
             <p>Coming soon.</p>
