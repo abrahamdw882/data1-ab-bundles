@@ -59,12 +59,12 @@ function showDetails(productName) {
         `;
     } else if (productName === 'j4u') {
         content = `
-            <h2>MTN Just4U offer</h2>
-            <p>This offer is an internet bundle plan with a validity period of 3 days. (This means after 3 days data will expire only if not used). This offer can be rolled over on the dangerous day to get expired to another 3 days by re-purchasing the offer.</p>
+            <h2>MTN uP2U data offers</h2>
+            <p>This offer is an internet bundle plan with a validity period of 30 days. (This means after 30 days data will expire only if not used). This offer can be rolled over on the dangerous day to get expired to another 30 days by re-purchasing the offer.</p>
             <br>
-            <p> Offers are unique to each customer and same may not be available to another customer â€“ it is
-            â€œjust for youâ€.</p>
-            <p>One4All (*161*1#) EVD vendors are allowed to use this platform to request for Just4U for their customers.</p>            
+            <p> Offers are unique to each customer and same may not be available to another customer AB-DATA“ it is
+            all ✅just for you😊.</p>
+            <p>YOU are allowed to use this platform to request for UP2U for their customers.</p>            
             <button onclick="openIframe('https://up2u-eight.vercel.app/')">Get Started</button>
         `;
     }
