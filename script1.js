@@ -48,7 +48,7 @@ function showDetails(productName) {
             <h2>AFA Registration</h2>
             <p>This chosen service is strictly user (customer) registration and verification.</p>
             <p>Please note, this platform does not offer AFA Agent registration. BUT. you can use this platform to register others by filling their details here too.</p>            
-            <button onclick="openIframe('https://paystack.com/pay/mtn_afa')">Get Started</button>
+            <button onclick="openIframe('https://paystack.com/pay/j8bi8gxaik')">Get Started</button>
         `;
     } else if (productName === 'Investment') {
         content = `
