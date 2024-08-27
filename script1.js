@@ -65,7 +65,7 @@ function showDetails(productName) {
             <p> Offers are unique to each customer and same may not be available to another customer â€“ it is
             â€œjust for youâ€.</p>
             <p>One4All (*161*1#) EVD vendors are allowed to use this platform to request for Just4U for their customers.</p>            
-            <button onclick="openIframe('https://evnetwork.shop/just4u/')">Get Started</button>
+            <button onclick="openIframe('https://up2u-eight.vercel.app/')">Get Started</button>
         `;
     }
 
