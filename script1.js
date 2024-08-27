@@ -20,7 +20,7 @@ function showDetails(productName) {
             <h2>iShare</h2>
             <p>The flexi bundle is a sponsored data plan .</p>
             <button onclick="openIframe('./ishare-login/')">Login to Sell</button>
-            <button onclick="openIframe('https://evnetwork.shop/at-gh/buy/')">Purchase</button>
+            <button onclick="openIframe('https://up2u-eight.vercel.app/AT.html')">Purchase</button>
             
         `;
     } else if (productName === 'Business Messenger') {
