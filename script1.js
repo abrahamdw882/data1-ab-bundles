@@ -27,7 +27,7 @@ function showDetails(productName) {
         content = `
             <h2>T-Boss</h2>
             <p>You become a boss of telecel data usage on Telecel platform for secure and efficient business communication. Connect with family and friends and businesses and partners.</p>
-            <button onclick="openIframe('https://evnetwork.shop/voda-gh/')">Get started</button>
+            <button onclick="openIframe('https://up2u-eight.vercel.app/Telecel.html')">Get started</button>
         `;
     } else if (productName === 'abMoneyTransfer') {
         content = `
