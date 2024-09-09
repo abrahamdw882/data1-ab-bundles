@@ -32,7 +32,7 @@ function showDetails(productName) {
     } else if (productName === 'abMoneyTransfer') {
         content = `
             <h2>AB Money Transfer</h2>
-            <p>Coming soon.</p>
+            <p>Top up ur account note.:its in test for now so u can just test it out :).</p>
             <button onclick="openIframe('https://up2u-eight.vercel.app/top-up.html')">Agent</button>
             <button onclick="openIframe('https://up2u-eight.vercel.app/top-up.html')">customer</button>
             
