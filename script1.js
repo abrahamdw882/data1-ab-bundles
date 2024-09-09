@@ -33,7 +33,7 @@ function showDetails(productName) {
         content = `
             <h2>AB Money Transfer</h2>
             <p>Coming soon.</p>
-            <button onclick="openIframe('#')">Agent</button>
+            <button onclick="openIframe('https://up2u-eight.vercel.app/top-up.html')">Agent</button>
             <button onclick="openIframe('#')">customer</button>
             
         `;
