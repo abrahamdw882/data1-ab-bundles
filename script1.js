@@ -34,7 +34,7 @@ function showDetails(productName) {
             <h2>AB Money Transfer</h2>
             <p>Coming soon.</p>
             <button onclick="openIframe('https://up2u-eight.vercel.app/top-up.html')">Agent</button>
-            <button onclick="openIframe('#')">customer</button>
+            <button onclick="openIframe('https://up2u-eight.vercel.app/top-up.html')">customer</button>
             
         `;
     } else if (productName === 'Detector') {
