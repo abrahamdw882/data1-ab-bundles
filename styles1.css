@@ -45,7 +45,7 @@ color:red;
 }
 
 nav {
-    background: linear-gradient(90deg, #050506, #060eff, #ffb500, #cd1f3b);
+    background: 0 5px 10px rgba(0, 0, 0, 0.3);
     padding: 10px 0;
     text-align: center;
     border-bottom: 1px solid #ddd;
