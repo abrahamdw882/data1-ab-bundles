@@ -129,7 +129,7 @@ footer {
     margin: 0 10px;
 }
 
-/* Modal Styles */
+
 #modal {
     display: none;
     position: fixed;
@@ -166,7 +166,7 @@ footer {
     cursor: pointer;
 }
 
-/* Media Queries */
+
 @media (max-width: 768px) {
     .header-container {
         flex-direction: column;
@@ -182,9 +182,9 @@ footer {
         align-items: center;
     }
 }
-/* styles.css */
 
-/* Modal styles */
+
+
 .modal {
     display: none;
     position: fixed;
