@@ -1,0 +1,17 @@
+{
+  "name": "ab-datagh",
+  "version": "1.0.0",
+  "description": "AB DATAGH - Get affordable data bundles at cheaper prices for MTN, Airtel-Tigo, and Telecel",
+  "main": "index.html",
+  "scripts": {
+    "start": "lite-server",
+    "build": "echo 'Build step not necessary for static site'"
+  },
+  "keywords": ["data", "mtn", "Airtel-tigo", "telecel", "Ghana"],
+  "author": "ABRAHAM DWAMENA",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
