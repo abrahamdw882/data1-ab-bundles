@@ -56,10 +56,12 @@
     </script>
 </head>
 <body>
-    <div id="spinner" class="show bg-dark position-fixed translate-middle w-100 vh-100 top-50 start-50 d-flex align-items-center justify-content-center">
-            <div class="spinner-border text-primary" style="width: 3rem; height: 3rem;" role="status">
-                <span class="sr-only">Loading...</span>
-            </div>
+<div id="spinner" class="fixed inset-0 bg-black bg-opacity-75 flex items-center justify-center">
+    <div role="status" class="w-12 h-12 border-4 border-t-transparent border-blue-500 rounded-full animate-spin">
+        <span class="sr-only">Loading...</span>
+    </div>
+</div>
+
         </div>
     <center> 
         <header style="background-color: 0 5px 10px rgba(0, 0, 0, 0.3);">
